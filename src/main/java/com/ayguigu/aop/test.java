@@ -11,6 +11,8 @@ public class test {
         System.out.println("push one test");
         System.out.println("pull one test");
         System.out.println("pull two test");
+                System.out.println("pull three test");
+
         System.out.println("pull four test");
     }
 }
