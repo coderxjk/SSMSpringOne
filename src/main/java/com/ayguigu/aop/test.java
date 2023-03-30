@@ -5,5 +5,6 @@ public class test {
         System.out.println("git git");
         System.out.println("git git2");
         System.out.println("hot-fix one");
+        System.out.println("master two");
     }
 }
