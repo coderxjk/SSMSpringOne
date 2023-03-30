@@ -9,5 +9,6 @@ public class test {
         System.out.println("master one");
         System.out.println("hot-fix two");
         System.out.println("push one test");
+        System.out.println("pull one test");
     }
 }
